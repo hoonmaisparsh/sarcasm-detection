@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+scikit-learn==1.5.1
+xgboost
+tensorflow
+keras-tuner
+scikeras
+lime
+jupyter
